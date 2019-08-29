@@ -9,17 +9,8 @@ ES6 classes communicate to each other as needed and keep the code separated and 
 
 ## Visuals
 
-**FitLit Desktop View:**
+![FitLit](images/fitlit.png "FitLet")
 
-![FitLit Desktop](images/check-yo-self-static-comp-desktop1.jpg "FitLet Desktop")
-
-**FitLit Tablet View:**
-
-![FitLit Tablet](images/check-yo-self-static-comp-desktop1.jpg "FitLet Tablet")
-
-**FitLit Mobile View:**
-
-![FitLit Mobile](images/check-yo-self-static-comp-desktop1.jpg "FitLet Mobile")
 
 ## URL
-https://ckoga.github.io/fitlit-starter-kit/
+https://ckoga.github.io/fitlit-starter-kit/src/index.html
